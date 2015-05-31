@@ -1,3 +1,9 @@
+# pylint: skip-file
+
+"""
+Home work 1
+"""
+
 # Question 1
 print(type(3.14159))
 
@@ -15,7 +21,7 @@ val1[2] = 4
 print(val2[1])
 
 # Question 8
-dictionary = {None: 1}
+dictionary = {False: 1}
 print(dictionary)
 
 
