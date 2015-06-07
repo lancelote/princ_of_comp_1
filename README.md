@@ -13,7 +13,7 @@ Version: Summer 2015
 paver
 
 # specific
-paver project1
+paver week1  # or week2 and etc.
 ```
 
 Do not forget:
