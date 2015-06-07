@@ -3,6 +3,7 @@
 # Principles of Computing Part I
 
 [Coursera course](https://www.coursera.org/course/principlescomputing1)
+
 Version: Summer 2015
 
 ## Testing
